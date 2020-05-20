@@ -1,51 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a458193-8d22-4af4-a19e-f48b187a021d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COPYING" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/categories.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/projects.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/tags.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-03-23-welcome-to-jekyll.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-03-24-syntax-test.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-03-25-another-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/about.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/categories.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/contact.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/index.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/morphext.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/page.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/post.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/projects.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/syntax.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/tags.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/about.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/morphext.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/post.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/projects.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/res/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/res/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/res/user.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google2d43e0143e72dbbc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.md" beforeDir="false" />
-    </list>
+    <list default="true" id="6a458193-8d22-4af4-a19e-f48b187a021d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
