@@ -20,13 +20,13 @@ baseurl: "/"
 url: "https://Jingyi-Shen.github.io"
 permalink: /:year/:month/:day/:title
 repository: ShawnTeoh/matjek
-paginate: 5
+paginate: 3
 
 
 github_profile: "https://github.com/ShawnTeoh"
 user: "Jingyi Shen"
 user_email: "shen.1250@osu.edu"
-contact_url: "https://Jingyi-Shen.github.io"
+#contact_url: "https://Jingyi-Shen.github.io"
 google_tracking_id: "UA-167179062-1"
 google_site_verification: "google2d43e0143e72dbbc.html"
 # disqus_shortname: "matjek"

@@ -15,22 +15,22 @@ js: ["post.js"]
         </span>
       </div>
       <div class="collapsible-body">
-        <span>
-          <i class="material-icons tooltipped" data-position="left" data-delay="30" data-tooltip="Categories">sort</i>
-          {% for cat in page.categories %}
-          {% capture test %}{{cat | slice: 0}}{% endcapture %}
-          {% capture testup %}{{cat | slice: 0 | upcase}}{% endcapture %}
-          <a href="{{site.baseurl}}/categories#{{cat | slugify}}{% if test == testup %}_cap{% endif %}" target="_blank"><div class="chip">{{cat}}</div></a>
-          {% endfor %}
-        </span>
-        <span>
-          <i class="material-icons tooltipped" data-position="left" data-delay="30" data-tooltip="Tags">label</i>
-          {% for tag in page.tags %}
-          {% capture test %}{{tag | slice: 0}}{% endcapture %}
-          {% capture testup %}{{tag | slice: 0 | upcase}}{% endcapture %}
-          <a href="{{site.baseurl}}/tags#{{tag | slugify}}{% if test == testup %}_cap{% endif %}" target="_blank"><div class="chip">{{tag}}</div></a>
-          {% endfor %}
-        </span>
+        <!--<span>-->
+          <!--<i class="material-icons tooltipped" data-position="left" data-delay="30" data-tooltip="Categories">sort</i>-->
+          <!--{% for cat in page.categories %}-->
+          <!--{% capture test %}{{cat | slice: 0}}{% endcapture %}-->
+          <!--{% capture testup %}{{cat | slice: 0 | upcase}}{% endcapture %}-->
+          <!--<a href="{{site.baseurl}}/categories#{{cat | slugify}}{% if test == testup %}_cap{% endif %}" target="_blank"><div class="chip">{{cat}}</div></a>-->
+          <!--{% endfor %}-->
+        <!--</span>-->
+        <!--<span>-->
+          <!--<i class="material-icons tooltipped" data-position="left" data-delay="30" data-tooltip="Tags">label</i>-->
+          <!--{% for tag in page.tags %}-->
+          <!--{% capture test %}{{tag | slice: 0}}{% endcapture %}-->
+          <!--{% capture testup %}{{tag | slice: 0 | upcase}}{% endcapture %}-->
+          <!--<a href="{{site.baseurl}}/tags#{{tag | slugify}}{% if test == testup %}_cap{% endif %}" target="_blank"><div class="chip">{{tag}}</div></a>-->
+          <!--{% endfor %}-->
+        <!--</span>-->
       </div>
     </li>
   </ul>
@@ -41,7 +41,7 @@ js: ["post.js"]
     {{ content }}
   </div>
 </div>
-<!-- {% if site.disqus_shortname and page.comments %}
+{% if site.disqus_shortname and page.comments %}
 <div id="disqus_thread"></div>
 <script>
   var disqus_config = function () {
@@ -56,4 +56,4 @@ js: ["post.js"]
   })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-{% endif %} -->
+{% endif %}
