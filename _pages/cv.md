@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +10,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in School of Data and Computer Science, Sun Yat-sen University, 2014~2018
+* Ph.D in Computer Science and Engineering, The Ohio State University, 2018~Present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Research Assistant
+  * Los Alamos National Laboratory, Los Alamos, NM
+  * Supervisor: [Jonathan Woodring](https://www.lanl.gov/expertise/profiles/view/jonathan-woodring)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Fall 2017: Android Software Engineer Intern
+  * Huawei Technologies Co. Ltd., Shenzhen, China
+  * Supervisor: Si Wu
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+ * Jingyi Shen, Runqi Wang, Han-Wei Shen, "Visual Exploration of Latent Space for Traditional Chinese music", IEEE PacificVis Visualization Meets AI Workshop, 2020. [Paper](https://doi.org/10.1016/j.visinf.2020.04.003)
+
+ 
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
+<div style='display: none'>
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+</div>
